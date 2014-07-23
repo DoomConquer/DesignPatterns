@@ -1,0 +1,8 @@
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Visitor\\src\\ConcreteElementA.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Visitor\\src\\ConcreteElementB.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Visitor\\src\\ConcreteVisitorA.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Visitor\\src\\ConcreteVisitorB.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Visitor\\src\\Element.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Visitor\\src\\SubjectStructure.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Visitor\\src\\Visitor.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Visitor\\src\\VisitorTest.java"

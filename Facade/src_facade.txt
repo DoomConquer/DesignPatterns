@@ -1,0 +1,6 @@
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Facade\\src\\AirConditioner.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Facade\\src\\Facade.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Facade\\src\\FacadeTest.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Facade\\src\\Fan.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Facade\\src\\Light.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Facade\\src\\Television.java"

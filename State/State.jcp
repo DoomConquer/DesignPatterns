@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>State</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref>JDK version 1.7.0_01</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>StateTest</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<fileitem>
+				<path>src\ConcreteStateA.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\ConcreteStateB.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\ConcreteStateC.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Context.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\State.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\StateTest.java</path>
+				<folder>src</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

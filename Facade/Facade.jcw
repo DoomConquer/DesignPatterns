@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Facade</label>
+	</settings>
+	<users>
+		<user>
+			<path>Facade.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Facade.jcp</path>
+		</project>
+	</projects>
+</workspace>

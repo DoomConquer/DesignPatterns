@@ -1,0 +1,4 @@
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Memento\\src\\Caretaker.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Memento\\src\\Memento.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Memento\\src\\MementoTest.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Memento\\src\\Originator.java"

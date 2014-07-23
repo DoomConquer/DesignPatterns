@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Singleton</label>
+	</settings>
+	<users>
+		<user>
+			<path>Singleton.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Singleton.jcp</path>
+		</project>
+	</projects>
+</workspace>

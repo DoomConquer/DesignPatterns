@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>CommonFactory</label>
+	</settings>
+	<users>
+		<user>
+			<path>CommonFactory.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>CommonFactory.jcp</path>
+		</project>
+	</projects>
+</workspace>

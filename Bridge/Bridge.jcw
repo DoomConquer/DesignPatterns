@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Bridge</label>
+	</settings>
+	<users>
+		<user>
+			<path>Bridge.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Bridge.jcp</path>
+		</project>
+	</projects>
+</workspace>

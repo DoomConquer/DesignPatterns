@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>InterfaceAdapter</label>
+	</settings>
+	<users>
+		<user>
+			<path>InterfaceAdapter.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>InterfaceAdapter.jcp</path>
+		</project>
+	</projects>
+</workspace>

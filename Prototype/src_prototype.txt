@@ -1,0 +1,2 @@
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Prototype\\src\\Prototype.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Prototype\\src\\PrototypeTest.java"

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Proxy</label>
+	</settings>
+	<users>
+		<user>
+			<path>Proxy.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Proxy.jcp</path>
+		</project>
+	</projects>
+</workspace>

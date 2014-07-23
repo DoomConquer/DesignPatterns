@@ -1,0 +1,5 @@
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Adapter\\InterfaceAdapter\\src\\Adapter.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Adapter\\InterfaceAdapter\\src\\InterfaceAdapter.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Adapter\\InterfaceAdapter\\src\\Source.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Adapter\\InterfaceAdapter\\src\\SourceSub1.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Adapter\\InterfaceAdapter\\src\\SourceSub2.java"

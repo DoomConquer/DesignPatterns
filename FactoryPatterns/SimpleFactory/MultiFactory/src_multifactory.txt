@@ -1,0 +1,5 @@
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\FactoryMethod\\MultiFactory\\src\\MailSender.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\FactoryMethod\\MultiFactory\\src\\MultiFactory.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\FactoryMethod\\MultiFactory\\src\\Sender.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\FactoryMethod\\MultiFactory\\src\\SenderFactory.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\FactoryMethod\\MultiFactory\\src\\ShortMessageSender.java"

@@ -1,0 +1,4 @@
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\TemplateMethod\\src\\ConcreteTemplateMethodA.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\TemplateMethod\\src\\ConcreteTemplateMethodB.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\TemplateMethod\\src\\TemplateMethod.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\TemplateMethod\\src\\TemplateMethodTest.java"

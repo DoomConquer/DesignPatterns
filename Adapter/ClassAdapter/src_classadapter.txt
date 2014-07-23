@@ -1,0 +1,4 @@
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Adapter\\ClassAdapter\\src\\Adapter.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Adapter\\ClassAdapter\\src\\ClassAdapter.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Adapter\\ClassAdapter\\src\\Source.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Adapter\\ClassAdapter\\src\\Target.java"

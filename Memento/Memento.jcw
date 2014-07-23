@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Memento</label>
+	</settings>
+	<users>
+		<user>
+			<path>Memento.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Memento.jcp</path>
+		</project>
+	</projects>
+</workspace>

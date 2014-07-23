@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Observer</label>
+	</settings>
+	<users>
+		<user>
+			<path>Observer.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Observer.jcp</path>
+		</project>
+	</projects>
+</workspace>

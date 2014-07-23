@@ -1,0 +1,5 @@
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\ChainOfResposibility\\src\\ChainOfResposibility.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\ChainOfResposibility\\src\\ConcreteHandlerA.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\ChainOfResposibility\\src\\ConcreteHandlerB.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\ChainOfResposibility\\src\\ConcreteHandlerC.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\ChainOfResposibility\\src\\Handler.java"

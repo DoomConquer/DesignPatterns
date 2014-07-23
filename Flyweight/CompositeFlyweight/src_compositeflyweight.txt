@@ -1,0 +1,5 @@
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Flyweight\\CompositeFlyweight\\src\\CompositeFlyweight.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Flyweight\\CompositeFlyweight\\src\\CompositeFlyweightTest.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Flyweight\\CompositeFlyweight\\src\\ConcreteFlyweight.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Flyweight\\CompositeFlyweight\\src\\Flyweight.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Flyweight\\CompositeFlyweight\\src\\FlyweightFactory.java"

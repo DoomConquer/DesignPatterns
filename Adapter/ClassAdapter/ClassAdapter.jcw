@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ClassAdapter</label>
+	</settings>
+	<users>
+		<user>
+			<path>ClassAdapter.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ClassAdapter.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,4 @@
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Iterator\\IntrinsicIterator\\src\\Aggregate.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Iterator\\IntrinsicIterator\\src\\ConcreteAggregate.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Iterator\\IntrinsicIterator\\src\\IntrinsicIterator.java"
+"C:\\Users\\Black\\Documents\\JCreator Pro\\MyProjects\\DesignPatterns\\Iterator\\IntrinsicIterator\\src\\Iterator.java"
